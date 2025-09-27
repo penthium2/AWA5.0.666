@@ -117,6 +117,7 @@ This web interface provides:
 - **100% compatibility** with the Bash scripts (`awacoder.sh` and `awadecode.sh`)
 - **Modern responsive design** for desktop and mobile devices
 - **Easy-to-use interface** with instant results
+- **Text-to-speech functionality** to listen to awaSCII+ code pronunciation
 
 The web version implements the exact same encoding/decoding algorithm as the Bash scripts, ensuring perfect interoperability between all versions.
 
