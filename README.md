@@ -20,6 +20,7 @@ Just for fun Look at the awa project tutorial :
 
 [![Button Website]][Website]   -->
 [![Button Tutorial]][Tutorial]
+[![Button Web Interface]][Web Interface]
 <!-- 
 [![Button Specification]][Specification]  
 [![Button Development]][Development]
@@ -46,6 +47,9 @@ Just for fun Look at the awa project tutorial :
 
 [Button Tutorial]: https://img.shields.io/badge/Tutorial-b92319?style=for-the-badge&logoColor=white&logo=YouTube
 [Tutorial]: https://www.youtube.com/watch?v=DY70AcaXq40
+
+[Button Web Interface]: https://img.shields.io/badge/Web%20Interface-4CAF50?style=for-the-badge&logoColor=white&logo=GoogleChrome
+[Web Interface]: https://awa.noobops.fr
 
 
 
@@ -103,5 +107,18 @@ awa awawawawawawawa
 
 ```
 The awa encoding is 8-bit and separated by commas.
+
+## Web Interface
+
+An interactive web interface is available at **[awa.noobops.fr](https://awa.noobops.fr)** 
+
+This web interface provides:
+- **Real-time encoding/decoding** with the awaSCII+ v5.0.666 format
+- **100% compatibility** with the Bash scripts (`awacoder.sh` and `awadecode.sh`)
+- **Modern responsive design** for desktop and mobile devices
+- **Easy-to-use interface** with instant results
+- **Text-to-speech functionality** to listen to awaSCII+ code pronunciation
+
+The web version implements the exact same encoding/decoding algorithm as the Bash scripts, ensuring perfect interoperability between all versions.
 
 For more information of awa language check : [awa language](https://github.com/TempTempai/AWA5.0/)
